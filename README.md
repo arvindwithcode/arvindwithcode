@@ -1,128 +1,59 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,100:7B61FF&text=Arvind%20Kumar%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer;🤖+AI+Engineer;⚡+Building+Modern+Experiences;💙+Welcome+to+my+GitHub"/>
-
-<p>
-
-<img src="https://img.shields.io/github/followers/arvindwithcode?style=for-the-badge&logo=github&color=0D1117"/>
-
-<img src="https://img.shields.io/github/stars/arvindwithcode?style=for-the-badge&logo=github&color=0D1117"/>
-
-<img src="https://komarev.com/ghpvc/?username=arvindwithcode&style=for-the-badge&color=blueviolet"/>
-
-</p>
-
-</div>
-
----
-
-# 🌌 About Me
-
-```yaml
-Name: Arvind Kumar Sharma
-
-Username: arvindwithcode
-
-Role: Full Stack Developer
-
-Focus:
-  - AI
-  - Web Apps
-  - UI/UX
-  - Automation
-
-Learning:
-  - Next.js
-  - AI Agents
-  - System Design
-
-Location:
-  India 🇮🇳
-```
-
----
-
-# ⚡ Tech Universe
-
+<!-- Banner Header with Dynamic Typing & Neon Glow -->
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,git,github,vscode,tailwind,figma"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arvindwithcode&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=arvindwithcode&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F2FE&center=true&vcenter=true&random=false&width=700&height=70&lines=HI+THERE%2C+I'M+ARVIND+KUMAR+SHARMA;FULL+STACK+DEVELOPER;AI+ENTHUSIAST;OPEN+SOURCE+CONTRIBUTOR" alt="Typing SVG" />
 </p>
 
 <p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindwithcode&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=180&section=header&text=Building%20Future%20With%20Code%20🚀&fontSize=24&fontColor=fff&animation=twinkling" width="100%" />
 </p>
 
----
+<!-- Cyberpunk / Neon Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/arvindwithcode"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
+  <a href="mailto:arvindwithcode@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
+  <a href="https://github.com/arvindwithcode"><img src="https://img.shields.io/badge/PORTFOLIO-00F2FE?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" /></a>
+</p>
 
-# 🏆 Achievements
+<br>
+
+<!-- Animated Tech Stack Cards -->
+<h2 align="center">⚡ MY TECH VAULT ⚡</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,py,mongodb,tailwind,git,github,vscode,docker,figma&perline=8" />
+</p>
+
+<br>
+
+<!-- Glowing 3D Stats Dashboard -->
+<h2 align="center">📈 GITHUB DASHBOARD</h2>
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arvindwithcode&theme=algolia&no-frame=true&column=4"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=arvindwithcode&show_icons=true&theme=radical&hide_border=true&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindwithcode&layout=compact&theme=radical&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=0d1117" width="48%" />
 </p>
-
----
-
-# 📈 Contribution Graph
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvindwithcode&theme=radical&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE" width="97%" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arvindwithcode&theme=tokyo-night"/>
+<br>
 
+<!-- Cyberpunk Trophy Case -->
+<h2 align="center">🏆 ACHIEVEMENTS & TROPHIES</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arvindwithcode&theme=flat&column=6&margin-w=10&margin-h=10&no-bg=true" />
+</p>
+
+<br>
+
+<!-- Snake Animation (Dynamic Contribution Graph) -->
+<h2 align="center">🐍 CONTRIBUTION GRAPH</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arvindwithcode/arvindwithcode/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
 ---
-
-# 🚀 Featured Projects
-
-| Project | Status |
-|---------|--------|
-| 🤖 AI Website Builder | 🚀 Active |
-| 💸 Monthly Spend Tracker | 🚀 Active |
-| 🎬 Movie Streaming Platform | 🔥 Building |
-| ⚡ AI Productivity Tools | 🚀 Coming Soon |
-
----
-
-# 🌍 Connect
 
 <p align="center">
-
-<a href="https://github.com/arvindwithcode">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:arvindwithcode@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
----
-
-<div align="center">
-
-## ⚡ "Dream • Build • Deploy • Repeat"
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:7B61FF,100:00F5FF"/>
-
-</div>
