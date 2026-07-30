@@ -1,116 +1,128 @@
 <div align="center">
 
-# 👋 Hi, I'm Arvind Kumar Sharma
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,100:7B61FF&text=Arvind%20Kumar%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### 🚀 Full-Stack Developer • AI Engineer • UI/UX Designer • Open Source Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Application+Builder;Open+Source+Contributor;Building+Modern+Web+Experiences;Welcome+to+my+GitHub+Profile!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer;🤖+AI+Engineer;⚡+Building+Modern+Experiences;💙+Welcome+to+my+GitHub"/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=arvindwithcode&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/arvindwithcode?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/arvindwithcode?style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/arvindwithcode?style=for-the-badge&logo=github&color=0D1117"/>
+
+<img src="https://img.shields.io/github/stars/arvindwithcode?style=for-the-badge&logo=github&color=0D1117"/>
+
+<img src="https://komarev.com/ghpvc/?username=arvindwithcode&style=for-the-badge&color=blueviolet"/>
+
 </p>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🌌 About Me
 
-💻 Passionate Full-Stack Developer
+```yaml
+Name: Arvind Kumar Sharma
 
-🤖 AI & Automation Enthusiast
+Username: arvindwithcode
 
-🎨 UI/UX Designer
+Role: Full Stack Developer
 
-🚀 Building Fast, Modern & Beautiful Web Applications
+Focus:
+  - AI
+  - Web Apps
+  - UI/UX
+  - Automation
 
-🌱 Currently Learning Advanced AI, Cloud & System Design
+Learning:
+  - Next.js
+  - AI Agents
+  - System Design
 
-💡 Love creating real-world projects that solve problems.
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
-![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva)
+Location:
+  India 🇮🇳
+```
 
 ---
 
-# 📈 GitHub Stats
+# ⚡ Tech Universe
 
-![](https://github-readme-stats.vercel.app/api?username=arvindwithcode&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=arvindwithcode&theme=tokyonight&hide_border=true)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,git,github,vscode,tailwind,figma"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arvindwithcode&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 GitHub Trophy
-
-![](https://github-profile-trophy.vercel.app/?username=arvindwithcode&theme=tokyonight&no-frame=true&margin-w=10)
+</p>
 
 ---
 
-# 📊 Activity Graph
+# 📊 GitHub Analytics
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=arvindwithcode&theme=tokyo-night)
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arvindwithcode&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=arvindwithcode&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindwithcode&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# 🚀 Current Goals
+# 🏆 Achievements
 
-- 🌟 Build Powerful AI Applications
-- ⚡ Master Full Stack Development
-- 🌍 Contribute to Open Source
-- 📱 Build Production Ready SaaS Products
-- 🤖 Create AI Agents & Automation
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arvindwithcode&theme=algolia&no-frame=true&column=4"/>
+
+</p>
 
 ---
 
-# 📫 Connect With Me
+# 📈 Contribution Graph
 
-📧 Email: **arvindwithcode@gmail.com**
+<p align="center">
 
-🐙 GitHub: https://github.com/arvindwithcode
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arvindwithcode&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Status |
+|---------|--------|
+| 🤖 AI Website Builder | 🚀 Active |
+| 💸 Monthly Spend Tracker | 🚀 Active |
+| 🎬 Movie Streaming Platform | 🔥 Building |
+| ⚡ AI Productivity Tools | 🚀 Coming Soon |
+
+---
+
+# 🌍 Connect
+
+<p align="center">
+
+<a href="https://github.com/arvindwithcode">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:arvindwithcode@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⚡ "Dream • Build • Deploy • Repeat"
 
-*"Code. Create. Learn. Repeat."*
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:7B61FF,100:00F5FF"/>
 
 </div>
